@@ -1,0 +1,1 @@
+const e={vereador:{label:"Representante eleito",emoji:"🏛️"},secretaria:{label:"Órgão público",emoji:"🏢"},associacao:{label:"Associação de bairro",emoji:"🤝"},empresa:{label:"Empresa",emoji:"🏪"},voluntario:{label:"Voluntário",emoji:"🙋"}};export{e as R};
