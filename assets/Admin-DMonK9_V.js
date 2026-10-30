@@ -1,4 +1,4 @@
-import{c as y,g as C,j as e,u as A,d as N,G as R,n as $,R as I}from"./index-C1-lDMf-.js";import{r as o,b as O}from"./react-1K15IvBF.js";import{S as E}from"./StatusBadge-DSDn8Shm.js";import{a as k,d as P}from"./date-CG7UgKt8.js";import{f as T}from"./image-sibmQezV.js";import{R as z}from"./resolver-CRaGaYlh.js";function D({report:t,onClose:x}){const m=y(t.categoria),d=C(t.bairroId),[a,l]=o.useState(!1),c=`CONECTA SAPEZAL — Iniciativa comunitária
+import{c as y,g as C,j as e,u as A,d as N,G as R,n as $,R as I}from"./index-DV98a9gc.js";import{r as o,b as O}from"./react-1K15IvBF.js";import{S as E}from"./StatusBadge-ChjOUBeo.js";import{a as k,d as P}from"./date-CG7UgKt8.js";import{f as T}from"./image-sibmQezV.js";import{R as z}from"./resolver-CRaGaYlh.js";function D({report:t,onClose:x}){const m=y(t.categoria),d=C(t.bairroId),[a,l]=o.useState(!1),c=`CONECTA SAPEZAL — Iniciativa comunitária
 Solicitação de providências nº ${t.protocolo}
 Sapezal-MT, ${k(new Date().toISOString())}
 
