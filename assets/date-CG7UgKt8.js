@@ -1,0 +1,1 @@
+function e(t){return Math.max(0,Math.floor((Date.now()-+new Date(t))/(1e3*3600*24)))}function a(t){return new Date(t).toLocaleDateString("pt-BR",{day:"2-digit",month:"short",year:"numeric"})}function n(t){return new Date(t).toLocaleString("pt-BR",{day:"2-digit",month:"short",year:"numeric",hour:"2-digit",minute:"2-digit"})}export{a,e as d,n as f};

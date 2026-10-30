@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/conecta-sapezal-demo/sw.js', { scope: '/conecta-sapezal-demo/' })})}
