@@ -1,0 +1,1 @@
+import{aZ as r,j as e,G as t}from"./index-BgBXKen8.js";function i({text:n,className:a=""}){const s=n.match(/^(\S+)\s+([\s\S]*)$/);return!s||!(r[s[1]]||r[s[1].replace(/️/g,"")])?e.jsx(e.Fragment,{children:n}):e.jsxs("span",{className:`inline-flex items-center gap-1.5 ${a}`,children:[e.jsx(t,{e:s[1]}),s[2]]})}export{i as I};
